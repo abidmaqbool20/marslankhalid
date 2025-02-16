@@ -8,7 +8,6 @@ As a Principal Software Engineer with over 8 years of experience in the industry
 
 As a natural problem solver and full-stack developer, I excel at troubleshooting highly complex technical issues and working with cross-functional teams. My in-depth knowledge and skills in setting up Nginx servers, VPS servers, VPCs, S3 buckets, RDS databases, and Amazon Web Services (AWS) EC2 are just a few examples of the technical expertise I bring to the table.
 
-Here is my Bitbucket Account: https://bitbucket.org/marslankhalid
 
 - 🔭 I’m currently working with Transport System L.L.C
 - 👀 I’m interested in new challenges.
